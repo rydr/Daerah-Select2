@@ -1,4 +1,4 @@
-# CI_daerah_ind
+# Daerah Indonesia with jQuery Select2
 chained dropdown using jQuery - select2 for Indonesian region selection
 
 This is a simple region selector using jQuery - select2 for Indonesian provinces, regencies and districts.
